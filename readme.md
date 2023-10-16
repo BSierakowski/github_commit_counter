@@ -15,7 +15,7 @@ Create your token here: https://github.com/settings/tokens.
 `ruby commit_counter.rb`
 
 ## Example Output
-
+```
 +--------------------------------------------------------------+
 |                                                              |
 | 🚀 GitHub Contribution Stats for bsierakowski 🚀             |
@@ -29,6 +29,6 @@ Create your token here: https://github.com/settings/tokens.
 | 🔗 https://github.com/BSierakowski/github_commit_counter 🔗  |
 |                                                              |
 +--------------------------------------------------------------+
-
+```
 
 ### Pull requests accepted :)
